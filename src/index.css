@@ -1,6 +1,15 @@
 body {
-  background-color: #def;
+  background-color: #003;
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  text-align: center;
+}
+
+.login {
+  backgroundColor: '#99ccff';
+}
+
+.main {
+  backgroundColor: red;
 }
